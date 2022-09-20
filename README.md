@@ -1,5 +1,5 @@
 # VMWare-vCenter-Snapshots-Overview
-Workarond to fetch an overview over all snapshots in a VMWare vCenter Instance
+Workaround to fetch an overview over all snapshots in a VMWare vCenter Instance
 
 1. You need access to the vCenter Postgresql database. Create a read-only user to avoid damage to the database
 2. You ask the database the query I shared
